@@ -35,8 +35,10 @@
         "button"
       ],
       "settings": {
+        "image": "shopify:\/\/shop_images\/a-close-up-of-black-microphone.jpg",
+        "image_2": "shopify:\/\/shop_images\/office-computer-screen.jpg",
         "image_overlay_opacity": 40,
-        "image_height": "large",
+        "image_height": "medium",
         "adapt_height_first_image": false,
         "desktop_content_position": "bottom-center",
         "show_text_box": false,
